@@ -1,3 +1,2 @@
-#Blacklist
-127.0.0.1 anydesk.com
-127.0.0.1 speedtest.net
+anydesk.com
+speedtest.net
