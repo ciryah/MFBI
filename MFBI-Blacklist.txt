@@ -3,4 +3,4 @@ speedtest.net
 youtube.com
 google.com
 www.google.com
-net.anydesk.com
+youtube.com
