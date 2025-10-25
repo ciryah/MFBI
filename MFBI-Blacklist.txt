@@ -6,6 +6,7 @@ ns.anydesk.com
 web.anydesk.com
 api.anydesk.com
 cdn.anydesk.com
+net.anydesk.com
 3.169.36.10
 3.169.36.40
 3.169.36.41
