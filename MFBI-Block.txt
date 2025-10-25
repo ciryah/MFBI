@@ -7,6 +7,7 @@ web.anydesk.com
 api.anydesk.com
 cdn.anydesk.com
 net.anydesk.com
+15.235.229.146
 3.169.36.10
 3.169.36.40
 3.169.36.41
