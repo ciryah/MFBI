@@ -1,7 +1,2 @@
-anydesk.com
-speedtest.net
-youtube.com
-google.com
-www.google.com
-youtube.com
-yahoo.com
+185.216.140.0/22
+185.189.112.0/22
