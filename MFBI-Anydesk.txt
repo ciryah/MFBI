@@ -1,0 +1,2 @@
+(^|\.)anydesk\.com$
+(^|\.)net\.anydesk\.com$
